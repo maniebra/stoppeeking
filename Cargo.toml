@@ -1,0 +1,9 @@
+[package]
+name = "stoppeaking"
+version = "0.1.0"
+edition = "2024"
+description = "A full-screen terminal reminder"
+
+[dependencies]
+softbuffer = "0.4"
+winit = "0.30"
